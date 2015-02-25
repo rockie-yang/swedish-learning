@@ -25,8 +25,39 @@ Singular Obestämd   |  Singular Bestämda    | Plural Obestämd   |   Plural Be
 
 
 
- Singular       |   Plural
- --------------------------------
+ Singular       |   Plural      |   Meaning
+ ---------------------------------------------
  en matta       |   mattor
  en våning      |   våningen
- en kasse       |   kassen
+ en kasse       |   kassen      |   bag ??
+ en kusin       |   kusinen
+ en bok         |   böcker
+ ett snöre      |   snören      |   string??
+ ett öga        |   ögon
+ ett huvud      |   huvuden
+ en läkare      |   läkaren
+ en lucka       |   luckan      |   cover?
+ en övning      |   övningen
+ en gaffel      |   gaffeln
+ en expedit     |   expediten   |   clerk
+ en fot         |   fötter
+ ett meddelande |   meddelandet | message? communication
+ ett öra        |   öronen
+ ett datum      |   datumen     | what's difference between dag?
+ en tekniker    |   tekniker ??
+ en brevlåda    |   brevlådor
+ en tidning     |   tidningen
+ en jumper      |   ??
+ en månad       |   månader
+ en far         |   fäder
+ ett täcker     |   täcker      |   cover?
+ ett ben        |   ben
+ en man         |   män
+ en människa    |   människor
+ en askkopp     |   askkoppar   |   ashtray
+ en ros         |   ros
+ en tanke       |   tankar      |   thoughts
+
+
+
+

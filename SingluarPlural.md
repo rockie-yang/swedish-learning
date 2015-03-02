@@ -39,15 +39,15 @@ Singular Obestämd   |  Singular Bestämda    | Plural Obestämd   |   Plural Be
  en lucka       |   luckan      |   cover?
  en övning      |   övningen
  en gaffel      |   gaffeln
- en expedit     |   expediten   |   clerk
+ en expedit     |   expediter   |   clerk
  en fot         |   fötter
- ett meddelande |   meddelandet | message? communication
+ ett meddelande |   meddelande  | message? communication
  ett öra        |   öronen
  ett datum      |   datumen     | what's difference between dag?
  en tekniker    |   tekniker ??
  en brevlåda    |   brevlådor
  en tidning     |   tidningen
- en jumper      |   ??
+ en jumper      |   jumprar
  en månad       |   månader
  en far         |   fäder
  ett täcker     |   täcker      |   cover?
@@ -55,9 +55,20 @@ Singular Obestämd   |  Singular Bestämda    | Plural Obestämd   |   Plural Be
  en man         |   män
  en människa    |   människor
  en askkopp     |   askkoppar   |   ashtray
- en ros         |   ros
+ en ros         |   rosor
  en tanke       |   tankar      |   thoughts
 
 
 
+Singular Obestämd   |  Singular Bestämda    | Plural Obestämd   |   Plural Bestämda
+--------------------|---------------------------------------------------------------
+    en man          |   mannen              |   män             |   männen
+    en hatt         |   hatten              |   hatter          |   hatterna
+    en natt         |   natten              |   nätter          |   nätterna
+    en mustasch     |   mustaschen          |   mustascher      |   mustascherna
+    en tänd         |   tanden              |   tänder          |   tänderna
+    en tandläkare   |   tandläkaren         |   tandläkarer     |   tandläkarerna?
+    ett hus         |   husen               |   hus             |   hus?
+    en stad         |   staden              |   städer          |   städerna
+    en trädgård     |   trädgården          |   trädgårder
 

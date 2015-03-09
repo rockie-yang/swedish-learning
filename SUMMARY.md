@@ -1,1 +1,7 @@
 * [Bestämda](bestamda.md)
+* [Singular & Plural](SingularPlural.md)
+* [Substantivets Plural Former](SubstantivetsPluralFormer.md)
+* [Possessiva](Possessiva.md)
+* [Reflexiva](Reflexiva.md)
+* [Verb Tempus](VerbTempus.md)
+* [Starka Verb](StarkaVerb.md)

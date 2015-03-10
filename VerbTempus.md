@@ -15,8 +15,8 @@ Grupp       |   Example     |   Description
 
 Tempus      |   grupp1  |   group2a |   group2b |   group3
 ------------|-----------|-----------|-----------|-----------
+ infinitiv  | tvätta    | häng**a**   | sök**a**    | sy
  imperativ  | tvätta!   | häng!     | sök!      | sy!
- infinitiv  | tvätta    | häng*a*   | sök*a*    | sy
- presens    | tvätta*r* | häng*er*  | sök*er*   | sy*r*
- preteritum | tvätta*de*| häng*de*  | sök*te*   | sy*dde*
- supinum    | tvätta*t* | häng*t*   | sök*t*    | sy*tt*
+ presens    | tvätta**r** | häng**er**  | sök**er**   | sy**r**
+ preteritum | tvätta**de**| häng**de**  | sök**te**   | sy**dde**
+ supinum    | tvätta**t** | häng**t**   | sök**t**    | sy**tt**

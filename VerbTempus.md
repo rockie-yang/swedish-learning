@@ -12,6 +12,7 @@ Grupp       |   Example     |   Description
 
 
 ## Group rules
+
 Tempus      |   grupp1  |   group2a |   group2b |   group3
 ------------|-----------|-----------|-----------|-----------
  imperativ  | tvätta!   | häng!     | sök!      | sy!

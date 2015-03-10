@@ -1,7 +1,7 @@
 # Starka Verb
 
 imperativ   | infinitiv |   presens |preteritum |   supinum |   meaning
------------------------------------------------------------------------
+------------|-----------|-----------|-----------|-----------|----------
  bind!      | binda     | binder    | band      | bundit    | bind
  brinn!     | brinna    | brinner   | brann     | brunnit   | on fire (burn)
  brist!     | brista    | brister   | brast     | brustit   | lack,shortage
@@ -19,7 +19,7 @@ imperativ   | infinitiv |   presens |preteritum |   supinum |   meaning
  vinn!      | vinna     | vinner    | vann      | vunnit
 
 imperativ   | infinitiv |   presens |preteritum |   supinum | meaning
------------------------------------------------------------------------
+------------|-----------|-----------|-----------|-----------|----------
  bit!       | bita      | biter     | bet       | bitit     | bite
  bli!       | bli(va)   | blir      | blev      | blivit    | become
  driv!      | driva     | driver    | drev      | drivit    | drive

@@ -1,6 +1,6 @@
 
 Ord         |   Meaning
----------------------------
+------------|--------------
 akta        |   look out
 anmäla      |   register
 bestämma    |   determine

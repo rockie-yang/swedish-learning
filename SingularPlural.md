@@ -1,7 +1,7 @@
 # Singular och Plural
 
 Singular Obestämd   |  Singular Bestämda    | Plural Obestämd   |   Plural Bestämda
---------------------|---------------------------------------------------------------
+--------------------|-----------------------|-------------------|-------------------
     ett hus         |       huset           |   hus             |   husen
     ett barn        |       barnet          |   barn            |   barnen
     ett system      |       systemet        |   system          |   systemen
@@ -26,7 +26,7 @@ Singular Obestämd   |  Singular Bestämda    | Plural Obestämd   |   Plural Be
 
 
  Singular       |   Plural      |   Meaning
- ---------------------------------------------
+ ---------------|---------------|-------------
  en matta       |   mattor
  en våning      |   våningen
  en kasse       |   kassen      |   bag ??
@@ -61,7 +61,7 @@ Singular Obestämd   |  Singular Bestämda    | Plural Obestämd   |   Plural Be
 
 
 Singular Obestämd   |  Singular Bestämda    | Plural Obestämd   |   Plural Bestämda
---------------------|---------------------------------------------------------------
+--------------------|-----------------------|-------------------|-------------------
     en man          |   mannen              |   män             |   männen
     en hatt         |   hatten              |   hatter          |   hatterna
     en natt         |   natten              |   nätter          |   nätterna

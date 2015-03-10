@@ -3,7 +3,7 @@
 ## En-ord some sluta på (a) får ändelsen (or)
 
  Singular       |       Plural
- ----------------------------------
+ ---------------|------------------
  En klocka      |   Två klockor
  En skola       |   Två skolor
  En jacka       |   Två jackor
@@ -14,7 +14,7 @@
 ## En-ord some sluta på ett obetonat (e) får ändelsen (ar)
 
  Singular       |       Plural
- ----------------------------------
+ ---------------|------------------
  En pojke       |   Två pojkar
  En timme       |   Två timmar
  En bulle       |   Två bullar
@@ -25,7 +25,7 @@
 ## En-ord some sluta på en konsonant får ändelsen (ar)
 
  Singular       |       Plural
- ----------------------------------
+ ---------------|------------------
  En buss        |   Två bussar
  En bil         |   Två bilar
  En filt        |   Två filtar
@@ -35,7 +35,7 @@
 ## En-ord med betoning på den sista vokalen får ändelsen (ar)
 
  Singular       |       Plural
- ----------------------------------
+ ---------------|------------------
  En maskin      |   Fyra maskiner
  En cigarett    |   Fyra cigaretter
  En kamrat      |   Fyra kamrater
@@ -45,7 +45,7 @@
 ## Ett-ord some slutar på vokal får ändelsen (n)
 
  Singular       |       Plural      |   Meaning
- ----------------------------------------------
+ ---------------|-------------------|----------
  Ett yrke       |   Fem yrken       |   profession, occupation
  Ett frimärke   |   Fem frimärken   |   stamp
  Ett rykte      |   Fem rykten      |   reputation
@@ -55,7 +55,7 @@
 ## Ett-ord some slutar på konsonant får ingen ändelsen
 
  Singular       |       Plural      |   Meaning
- ----------------------------------------------
+ ---------------|-------------------|----------
  Ett rum        |   Flera rum
  Ett fönster    |   Många fönster
  Ett jobb       |   Hundra jobb

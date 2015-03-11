@@ -27,36 +27,36 @@ Singular Obestämd   |  Singular Bestämda    | Plural Obestämd   |   Plural Be
 
  Singular       |   Plural      |   Meaning
  ---------------|---------------|-------------
- en matta       |   mattor
- en våning      |   våningen
- en kasse       |   kassen      |   bag ??
- en kusin       |   kusinen
- en bok         |   böcker
- ett snöre      |   snören      |   string??
- ett öga        |   ögon
- ett huvud      |   huvuden
- en läkare      |   läkaren
- en lucka       |   luckan      |   cover?
- en övning      |   övningen
- en gaffel      |   gaffeln
+ en matta       |   mattor      |
+ en våning      |   våningar    |
+ en kasse       |   kassar      | cashier,bag
+ en kusin       |   kusiner     | cousin
+ en bok         |   böcker      |
+ ett snöre      |   snören      | cord,  string
+ ett öga        |   ögon        |
+ ett huvud      |   huvuden     |
+ en läkare      |   läkare      |
+ en lucka       |   luckor      |   door
+ en övning      |   övningar    | exercise
+ en gaffel      |   gafflar     | fork
  en expedit     |   expediter   |   clerk
- en fot         |   fötter
- ett meddelande |   meddelande  | message? communication
- ett öra        |   öronen
- ett datum      |   datumen     | what's difference between dag?
- en tekniker    |   tekniker ??
- en brevlåda    |   brevlådor
- en tidning     |   tidningen
- en jumper      |   jumprar
- en månad       |   månader
- en far         |   fäder
- ett täcker     |   täcker      |   cover?
- ett ben        |   ben
- en man         |   män
- en människa    |   människor
- en askkopp     |   askkoppar   |   ashtray
- en ros         |   rosor
- en tanke       |   tankar      |   thoughts
+ en fot         |   fötter      |
+ ett meddelande |   meddelande? | message, communication
+ ett öra        |   öron        | eye
+ ett datum      |   datumen     | date
+ en tekniker    |   tekniker    | technique
+ en brevlåda    |   brevlådor   | mailbox
+ en tidning     |   tidningar   | newspaper
+ en jumper      |   jumprar     | jumper
+ en månad       |   månader     | month
+ en far         |   fäder       | father
+ ett täcker     |   täcker      | cover
+ ett ben        |   ben         | leg
+ en man         |   män         | man
+ en människa    |   människor   | human
+ en askkopp     |   askkoppar   | ashtray
+ en ros         |   rosor       | rose
+ en tanke       |   tankar      | thoughts
 
 
 
